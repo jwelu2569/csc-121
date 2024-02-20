@@ -1,0 +1,6 @@
+yellow
+silver
+gold
+purple
+cyan
+brown

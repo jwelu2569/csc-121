@@ -1,0 +1,5 @@
+﻿  PassingData.cpp
+C:\Users\jwelu2569\source\repos\Q11_v1_PassingData\Q11_v1_PassingData\PassingData.cpp(8,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\jwelu2569\source\repos\Q11_v1_PassingData\Q11_v1_PassingData\PassingData.cpp(14,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\jwelu2569\source\repos\Q11_v1_PassingData\Q11_v1_PassingData\PassingData.cpp(20,16): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Q11_v1_PassingData.vcxproj -> C:\Users\jwelu2569\source\repos\Q11_v1_PassingData\Debug\Q11_v1_PassingData.exe

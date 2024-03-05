@@ -1,0 +1,5 @@
+﻿  ReturnValuesExamples.cpp
+C:\Users\jwelu2569\source\repos\Week7_ReturnValues\Week7_ReturnValues\ReturnValuesExamples.cpp(22): warning C4172: returning address of local variable or temporary: temp
+C:\Users\jwelu2569\source\repos\Week7_ReturnValues\Week7_ReturnValues\ReturnValuesExamples.cpp(37): warning C4172: returning address of local variable or temporary: temp
+C:\Users\jwelu2569\source\repos\Week7_ReturnValues\Week7_ReturnValues\ReturnValuesExamples.cpp(30): warning C4172: returning address of local variable or temporary: temp
+  Week7_ReturnValues.vcxproj -> C:\Users\jwelu2569\source\repos\Week7_ReturnValues\Debug\Week7_ReturnValues.exe

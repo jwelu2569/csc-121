@@ -1,0 +1,3 @@
+﻿  Algos.cpp
+C:\Users\jwelu2569\source\repos\Week10_Algos\Week10_Algos\Algos.cpp(73): warning C4715: 'Algos::binarySearch': not all control paths return a value
+  Week10_Algos.vcxproj -> C:\Users\jwelu2569\source\repos\Week10_Algos\Debug\Week10_Algos.exe

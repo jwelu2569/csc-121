@@ -1,0 +1,4 @@
+﻿  DAExample.cpp
+C:\Users\jwelu2569\source\repos\Week11_DynamicArray\Week11_DynamicArray\DAExample.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\jwelu2569\source\repos\Week11_DynamicArray\Week11_DynamicArray\DAExample.cpp(17,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Week11_DynamicArray.vcxproj -> C:\Users\jwelu2569\source\repos\Week11_DynamicArray\Debug\Week11_DynamicArray.exe
